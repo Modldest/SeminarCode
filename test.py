@@ -1,3 +1,2 @@
 import numpy
-def test():
-    return
+def pri():
